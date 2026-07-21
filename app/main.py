@@ -17,6 +17,8 @@ app.add_middleware(
         "http://127.0.0.1:5173",
         "http://localhost:5500",
         "http://127.0.0.1:5500",
+        "https://smart-haram-monitoring-system.web.app",
+        "https://smart-haram-monitoring-system.firebaseapp.com",
     ],
     allow_credentials=True,
     allow_methods=["*"],
